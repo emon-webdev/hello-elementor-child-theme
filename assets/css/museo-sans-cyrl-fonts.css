@@ -1,0 +1,35 @@
+@font-face {
+    font-family:"Avenir-LT-W01_85-Heavy1475544";
+    src:url("../fonts/Avenir-LT-W01_85-Heavy-1475544/Avenir-LT-W01_85-Heavy1475544.woff2") format("woff2"),url("../fonts/Avenir-LT-W01_85-Heavy-1475544/61bd362e-7162-4Avenir-LT-W01_85-Heavy-1475544.woff") format("woff");
+font-display: block;
+}
+@font-face {
+    font-family: "Avenir-LT-W05_85-Heavy";
+    src: url("../fonts/Avenir-LT-W05_85-Heavy/AvenirLTW05-85Heavy.woff2") format("woff2"),
+    url("../fonts/Avenir-LT-W05_85-Heavy/AvenirLTW05-85Heavy.woff") format("woff");
+font-display: block;
+}
+
+@font-face {
+    font-family:"Proxima-N-W01-Reg";
+    src:url("../fonts/Proxima-N-W01-Reg/Proxima-N-W01-Reg.woff2") format("woff2"),url("../fonts/Proxima-N-W01-Reg/Proxima-N-W01-Reg.woff") format("woff");
+font-display: block;
+}
+@font-face{
+    font-family:"Proxima-N-W05-Reg";
+    src: url("../fonts/Proxima-N-W05-Reg/ProximaNovaW05-Regular.woff2") format("woff2"),
+    url("../fonts/Proxima-N-W05-Reg/ProximaNovaW05-Regular.woff") format("woff");
+font-display: block;
+}
+@font-face {
+    font-family:"Futura-LT-W01-Light";
+    src:url("../fonts/Futura-LT-W01-Light/Futura-LT-W01-Light.woff2") format("woff2"),url("../fonts/Futura-LT-W01-Light/Futura-LT-W01-Light.woff") format("woff");
+font-display: block;
+}
+@font-face {
+    font-family: "Futura-LT-W05-Light";
+    src: url("../fonts/Futura-LT-W05-Light/FuturaLTW05-LightCondensed.woff2") format("woff2"),
+    url("../fonts/Futura-LT-W05-Light/FuturaLTW05-LightCondensed.woff") format("woff");
+font-display: block;
+}
+
